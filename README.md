@@ -39,4 +39,4 @@ Every project in this organization adheres to a professional engineering standar
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange?style=for-the-badge)
 
-[Contact for Collaboration](senatraxai@gmail.com)(www.linkedin.com/in/senatraxai)
+[Contact for Collaboration] (senatraxai@gmail.com)(www.linkedin.com/in/senatraxai)

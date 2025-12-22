@@ -45,6 +45,6 @@ Every project in this organization adheres to a professional engineering standar
 
 | Project | Description | Core Technology |
 | :--- | :--- | :--- |
-| **[HMRE](link)** | **AI Antivirus Engine** for behavioral malware reasoning. | PyTorch, ACT, XAI |
+| **[HMRE](https://github.com/SenatraxAI/Hierarchical-Malware-Reasoning-Engine)** | **AI Antivirus Engine** for behavioral malware reasoning. | PyTorch, ACT, XAI |
 
 [Contact for Collaboration] (senatraxai@gmail.com)(www.linkedin.com/in/senatraxai)

@@ -46,5 +46,13 @@ Every project in this organization adheres to a professional engineering standar
 | Project | Description | Core Technology |
 | :--- | :--- | :--- |
 | **[HMRE](https://github.com/SenatraxAI/Hierarchical-Malware-Reasoning-Engine)** | **AI Antivirus Engine** for behavioral malware reasoning. | PyTorch, ACT, XAI |
+| **[NATBRAND](https://github.com/SenatraxAI/NATBRAND)** | **Autonomous Intelligence System** for global news synthesis and reputation forecasting. | Python (Ollama), Dart (Flutter), ChromaDB |
+| **[IdeaForgeAI](https://github.com/SenatraxAI/IdeaForge)** | **Co-founder platform** that transforms raw concepts into investor-grade product specifications. | TypeScript, Node.js, LLM Orchestration |
+
+
+
+---
+
+Would you like me to help you draft a **"How it Works"** section for the NATBRAND README that explains the interaction between the Dart frontend and the Python AI backend?
 
 [Contact for Collaboration] (senatraxai@gmail.com)(www.linkedin.com/in/senatraxai)
